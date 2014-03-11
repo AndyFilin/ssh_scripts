@@ -1,0 +1,7 @@
+cp ~/Загрузки/exp ~/exp
+mv exp exp1
+mv exp1 exp2
+mv exp2 exp3
+mv exp3 exp4
+mv exp4 exp5
+
